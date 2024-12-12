@@ -1,1 +1,0 @@
-# NoahMcDonald-tech.github.io
