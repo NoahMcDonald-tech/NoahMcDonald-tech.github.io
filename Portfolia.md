@@ -5,6 +5,7 @@ Resume : https://profile.indeed.com/p/noahm-sj34yw5
 
 About me:
 Michigan Tech Student
+
 Has used:
 SaS
 R 
